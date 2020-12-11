@@ -6,7 +6,8 @@ For the InBreast dataset, please refer to: http://medicalresearch.inescporto.pt/
 
 ## The code
 
-We used the official implementation [3] for our experiment. We want to stress that the code we used for the CycleGANs have been adapted from the original experiment by Becker et al., 2018. 
+We used the official implementation [3] for our experiment. We want to stress that the code we used for the CycleGANs have been adapted from the original experiment by Becker et al., 2018.  </br>
+The code is given in a notebook format in the related folder.
 
 ## The report
 
