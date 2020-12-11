@@ -1,6 +1,6 @@
 # Breast CycleGAN reproduction
 
-This repository contains the reproduction of the first experiment of **Injecting and removing malignant features in mammography with CycleGAN: Investigation of an automated adversarial attack using neural networks**, Anton S. Becker, Lukas Jendele, Ondrej Skopek, Nicole Berger, Soleen Ghafoor, Magda Marcon, Ender Konukoglu. [1] on the InBreast dataset.
+This repository contains the reproduction of the first experiment of **Injecting and removing malignant features in mammography with CycleGAN: Investigation of an automated adversarial attack using neural networks**, Anton S. Becker, Lukas Jendele, Ondrej Skopek, Nicole Berger, Soleen Ghafoor, Magda Marcon, Ender Konukoglu. [1] on the InBreast dataset. </br>
 For the InBreast dataset, please refer to: http://medicalresearch.inescporto.pt/breastresearch/index.php/Get_INbreast_Database [2]
 
 
