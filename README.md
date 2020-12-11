@@ -14,11 +14,10 @@ The file ```final_report.pdf``` contains the pdf version of the final report.
 
 ## The results
 
-![Results for injecting/removing malignant features](/Images/CycleGAN_results.png)
-
+<img src="/Images/CycleGAN_results.png" width="600">
 
 ## References
 
-[1] Anton S. Becker et al. “Injecting and removing malignant features in mammography with CycleGAN: Investigation of an automated adversarial attack using neural     networks”. In: CoRR abs/1811.07767 (2018). arXiv: 1811.07767. url: http://arxiv.org/abs/1811.07767. </br>
-[2] INbreast: Toward a Full-field Digital Mammographic Database, Moreira, I. C., Amaral, I., Domingues, I., Cardoso, A., Cardoso, M. J., & Cardoso, J. S. (2012).,     Accademic Radiology  , 19(2), 236ñ248. https://doi.org/10.1016/j.acra.2011.09.01414</br>
-[3]https://github.com/BreastGAN
+[1] Anton S. Becker et al. “Injecting and removing malignant features in mammography with CycleGAN: Investigation of an automated adversarial attack using neural networks”. In: CoRR abs/1811.07767 (2018). arXiv: 1811.07767. url: http://arxiv.org/abs/1811.07767. </br>
+[2] INbreast: Toward a Full-field Digital Mammographic Database, Moreira, I. C., Amaral, I., Domingues, I., Cardoso, A., Cardoso, M. J., & Cardoso, J. S. (2012)., Accademic Radiology  , 19(2), 236ñ248. https://doi.org/10.1016/j.acra.2011.09.01414</br>
+[3] https://github.com/BreastGAN
