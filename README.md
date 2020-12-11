@@ -20,5 +20,5 @@ We used the official implementation [2] for our experiment. We want to stress th
 
 
 
-[1] Anton S. Becker et al. “Injecting and removing malignant features in mammography with CycleGAN: Investigation of an automated adversarial attack using neural networks”. In: CoRR abs/1811.07767 (2018). arXiv: 1811.07767. url: http://arxiv.org/abs/1811.07767. <\br>
+[1] Anton S. Becker et al. “Injecting and removing malignant features in mammography with CycleGAN: Investigation of an automated adversarial attack using neural networks”. In: CoRR abs/1811.07767 (2018). arXiv: 1811.07767. url: http://arxiv.org/abs/1811.07767. </br>
 [2]https://github.com/BreastGAN
