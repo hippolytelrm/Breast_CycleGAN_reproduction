@@ -14,7 +14,7 @@ The file ```final_report.pdf``` contains the pdf version of the final report.
 
 ## The results
 
-![Results for injecting/removing malignant features](/images/CycleGAN_results.png)
+![Results for injecting/removing malignant features](/Images/CycleGAN_results.png)
 
 
 ## References
